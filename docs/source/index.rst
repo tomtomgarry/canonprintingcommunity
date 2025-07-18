@@ -28,7 +28,7 @@ Follow these steps to resolve Canon printer not printing issues on a Windows com
 
 1️⃣ **Check Connections**
 
-Ensure the printer is properly connected via USB or Wi-Fi. For USB, confirm the cable is securely connected. For wireless, check that the printer is connected to the same Wi-Fi network as your computer.
+Ensure the printer is properly connected via USB or Wi-Fi. For USB, confirm the cable is securely connected. For wireless, check that the printer is connected to the same Wi-Fi network as your computer
 
 2️⃣ **Restart Printer and Computer**
 
